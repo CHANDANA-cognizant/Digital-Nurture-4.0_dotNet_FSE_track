@@ -1,0 +1,12 @@
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\bin\Debug\net8.0\SharedKafka.deps.json
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\bin\Debug\net8.0\SharedKafka.dll
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\bin\Debug\net8.0\SharedKafka.pdb
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\SharedKafka.csproj.AssemblyReference.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\SharedKafka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\SharedKafka.AssemblyInfoInputs.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\SharedKafka.AssemblyInfo.cs
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\SharedKafka.csproj.CoreCompileInputs.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\SharedKafka.dll
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\refint\SharedKafka.dll
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\SharedKafka.pdb
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\SharedKafka\obj\Debug\net8.0\ref\SharedKafka.dll

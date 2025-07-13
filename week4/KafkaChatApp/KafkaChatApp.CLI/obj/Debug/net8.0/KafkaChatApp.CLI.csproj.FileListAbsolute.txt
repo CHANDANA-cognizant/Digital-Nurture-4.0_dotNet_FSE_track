@@ -1,0 +1,5 @@
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.CLI\obj\Debug\net8.0\KafkaChatApp.CLI.csproj.AssemblyReference.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.CLI\obj\Debug\net8.0\KafkaChatApp.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.CLI\obj\Debug\net8.0\KafkaChatApp.CLI.AssemblyInfoInputs.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.CLI\obj\Debug\net8.0\KafkaChatApp.CLI.AssemblyInfo.cs
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.CLI\obj\Debug\net8.0\KafkaChatApp.CLI.csproj.CoreCompileInputs.cache

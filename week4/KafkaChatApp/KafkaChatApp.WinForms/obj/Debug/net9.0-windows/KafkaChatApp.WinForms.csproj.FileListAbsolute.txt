@@ -1,0 +1,7 @@
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.WinForms\obj\Debug\net9.0-windows\KafkaChatApp.WinForms.csproj.AssemblyReference.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.WinForms\obj\Debug\net9.0-windows\KafkaChatApp.WinForms.Form1.resources
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.WinForms\obj\Debug\net9.0-windows\KafkaChatApp.WinForms.csproj.GenerateResource.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.WinForms\obj\Debug\net9.0-windows\KafkaChatApp.WinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.WinForms\obj\Debug\net9.0-windows\KafkaChatApp.WinForms.AssemblyInfoInputs.cache
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.WinForms\obj\Debug\net9.0-windows\KafkaChatApp.WinForms.AssemblyInfo.cs
+C:\Users\chandana\OneDrive\Desktop\webAPI\KafkaChatApp\KafkaChatApp.WinForms\obj\Debug\net9.0-windows\KafkaChatApp.WinForms.csproj.CoreCompileInputs.cache
